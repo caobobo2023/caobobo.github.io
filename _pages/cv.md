@@ -9,32 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 浙江大学, 机械工程学院, 学士， 2009-- 2013
+* 浙江大学, 机械工程学院, 博士， 2013 -- 2018
 
-Work experience
+工作和实习
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 算法研究员 @ 商汤科技
+  * L2+ 高速巡航辅助驾驶功能开发
+  * 智能小巴项目中决策规划控制相关的开发
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 算法实习生 @商汤科技
+  * 控制算法开发
+
+* 博士后 @中科院深圳先进技术研究院
+  * 基于数据驱动的车辆建模
   
-Skills
+基础技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 基于优化的规划控制算法，MPC，基于搜索的运动规划算法
+* 能够熟练应用MATLAB编程语言，C++，Python
 
 Publications
 ======
@@ -42,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,7 +49,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+   -->
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
