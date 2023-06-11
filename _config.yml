@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CaoBobo's Page"
+title                    : "Cao Xiaoxu's Page"
 title_separator          : "-"
 name                     : &name "Xiaoxu Cao"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cao Bobo"
+  name             : "Cao Xiaoxu"
   avatar           : "profile.png"
   bio              : "一个自动驾驶算法工程师"
   location         : "Shanghai China"
